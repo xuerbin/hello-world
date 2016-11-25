@@ -1,0 +1,17 @@
+.DS_Store
+.idea/
+node_modules/
+dist/
+npm-debug.log
+selenium-debug.log
+test/unit/coverage
+test/e2e/reports
+
+# 忽略自动生成的html文档
+docs/*.html
+
+# 忽略npm日志文件
+npm-*.log.*
+
+# 忽略自动构建文件
+.gitlab-ci.yml
