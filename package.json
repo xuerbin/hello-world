@@ -2,7 +2,7 @@
   "name": "hello-world",
   "version": "1.0.0",
   "description": "hello-world",
-  "author": "xuerbinit@163.c[Cilom.@gmail.com",
+  "author": "xuerbin@gmail.com",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
